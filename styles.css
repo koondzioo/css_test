@@ -1,0 +1,84 @@
+.glyphicon{
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  background-size: cover;
+}
+
+.glyphicon-plus{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-size: cover;
+  background-image: url(https://raw.githubusercontent.com/koondzioo/css_test/main/plus.svg) !important;
+
+}
+
+.glyphicon-plus:before {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-size: cover;
+  background-image: url(https://raw.githubusercontent.com/koondzioo/css_test/main/plus.svg) !important;
+}
+
+
+.glyphicon-remove{
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;
+  width: 15px;
+  height: 15px;
+  background-size: cover;
+  background-image: url(https://raw.githubusercontent.com/koondzioo/css_test/main/minus.svg) !important;
+
+}
+
+.glyphicon-remove:before {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;
+  width: 15px;
+  height: 15px;
+  background-size: cover;
+  background-image: url(https://raw.githubusercontent.com/koondzioo/css_test/main/minus.svg) !important;
+}
+
+
+.btn-add {
+  background-color: green !important;
+}
+
+.btn-add:hover {
+  background-color: green !important;
+}
+.btn-add:focus {
+  background-color: green !important;
+}
+
+.btn-add:after {
+  background-color: green !important;
+}
+
+.btn-add:active {
+  background-color: green !important;
+}
+
+
+.btn-danger{
+  width: 60px !important;
+  height: 40px !important;
+  background-color: #cd3c14 !important;
+  border-color:  black !important
+}
+
+.btn-group{
+  width: 60px !important;
+  height: 40px !important;
+}
+.btn-danger{
+  width: 60px !important;
+  height: 40px !important;
+  background-color: #cd3c14 !important;
+  border-color:  black !important
+}
